@@ -1,6 +1,4 @@
 [README.md](https://github.com/user-attachments/files/33435474/README.md)
-## Hi there 👋
-
 <!--<!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:7f5af0&height=180&section=header&text=Marcos%20Henrique&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20%E2%80%A2%20PHP%20%C2%B7%20Laravel%20%C2%B7%20Go&descAlignY=58&descSize=16" width="100%" alt="Marcos Henrique — Desenvolvedor Backend"/>
 
