@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/henrique-marcos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:nick.oliveira.campos@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 <img src="https://img.shields.io/badge/Belo%20Horizonte%20%E2%80%A2%20MG-1e1e2e?style=for-the-badge&logo=googlemaps&logoColor=7f5af0" alt="Belo Horizonte - MG"/>
-<img src="https://komarev.com/ghpvc/?username=marcoshocampos&style=for-the-badge&color=7f5af0&label=VISITAS" alt="Visitas ao perfil"/>
 
 </div>
 
