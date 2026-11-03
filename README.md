@@ -21,7 +21,7 @@ Desenvolvedor backend com **4+ anos** construindo e sustentando **ERPs e CRMs de
 
 - 🏢 Hoje sou **Desenvolvedor Backend Pleno** na **South**
 - 🐘 Mais rápido em **PHP/Laravel**, mas o que levo para qualquer stack não muda de linguagem: modelagem de dados, desenho de API, filas, cache, testes e leitura de código legado
-- 🐹 Já entreguei features em **Go** em integrações entre serviços — e encaro **Vue.js** no front quando o time precisa
+- 🐹 Já entreguei features em **Go** em integrações entre serviços — e encaro o front em **JavaScript** quando o time precisa
 - 🤖 Uso **IA no ciclo de desenvolvimento** (geração e revisão de código, automação, prototipação) — sem abrir mão de revisão humana
 - 🎓 Bacharel em **Sistemas de Informação** pela **PUC Minas**
 - 💬 Aberto a conversas sobre posições de **back-end** — PHP/Laravel ou outra stack
@@ -56,7 +56,7 @@ final class MarcosHenrique extends BackendDeveloper
 
 **Back-end & linguagens**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,go,js,vue&theme=dark" alt="PHP, Laravel, Go, JavaScript, Vue"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,go,js&theme=dark" alt="PHP, Laravel, Go, JavaScript"/>
 <br/>
 <img src="https://img.shields.io/badge/Yii2-40B3D8?style=flat-square&logoColor=white" alt="Yii2"/>
 <img src="https://img.shields.io/badge/REST%20%2F%20SOAP-1e1e2e?style=flat-square" alt="REST / SOAP"/>
