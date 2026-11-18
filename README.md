@@ -107,7 +107,7 @@ final class MarcosHenrique extends BackendDeveloper
 
 ## 📌 Projetos em destaque
 
-- 💳 **PayFlow** — gateway de pagamentos com carteira digital em **Laravel**, construído do zero para estudar arquitetura, PSRs, filas, mensageria e segurança. Desenvolvido no modelo **IA First**, com documentação contínua. 🚧
+- 🛒 [**Mini Checkout**](https://github.com/marcoshocampos/minicheckout) — checkout enxuto em Laravel para praticar o que pesa em produção: idempotência (Idempotency-Key), filas com Redis e worker, tratamento de falhas e observabilidade (OpenTelemetry + Grafana). Usa um gateway de pagamento fake com caos controlado (falhas, recusas, timeouts e webhooks duplicados) e testes de carga com k6. PHP · Laravel · PostgreSQL · Redis · Docker Compose. Evolui em fases documentadas, no modelo IA First. 🚧
 - 🧾 [**Lançar Despesas**](https://github.com/marcoshocampos/lancardespesas) — sistema web de despesas do casal que aposentou a planilha: lançamento por pessoa e em conjunto, parcelamento automático, rateio e conferência da fatura contra o extrato. **Next.js · TypeScript · Prisma · Postgres (Neon)**, com 130 testes entre Vitest e Playwright.
 - 🧠 [**Relatório Cognito**](https://github.com/marcoshocampos/relatoriocognito) — app desktop (um único `.exe`) que transforma CSVs de testes de tempo de reação de atletas em relatórios PDF com gráficos. **Python · matplotlib · ReportLab · CustomTkinter**, sem servidor e sem instalação.
 
